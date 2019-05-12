@@ -106,7 +106,7 @@
       </plugin>     
 	   <plugin>
 		<groupId>org.codehaus.mojo</groupId>
-		<artifactId>tomcat9-maven-plugin</artifactId>
+		<artifactId>tomcat-maven-plugin</artifactId>
 	<configuration>
 		<url>http://ec2-13-233-90-144.ap-south-1.compute.amazonaws.com:8080/manager</url>
 		<server>mytomcat</server>
