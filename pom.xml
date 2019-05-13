@@ -95,7 +95,7 @@
     <artifactId>tomcat7-maven-plugin</artifactId>
     <version>2.2</version>
 	<configuration>
-	<url>http://13.233.90.144:8080/</url>
+	<url>http://13.233.90.144:8080/manager/</url>
 	<server>mytomcat</server>
 	<path>/maven-web-project</path>
 	<update>true</update>
