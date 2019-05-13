@@ -96,10 +96,8 @@
     <version>2.2</version>
 	<configuration>
 	<url>http://13.233.90.144:8080/manager</url>
-	<server>mytomcat</server>
+	<server>TomcatServer</server>
 	<path>/maven-web-project</path>
-	<username>samba</username>
-	<password>samba123</password>	
 	<update>true</update>
 	</configuration>
 	</plugin> 
