@@ -97,7 +97,7 @@
 	<configuration>
 	<url>http://13.233.90.144:8080/manager</url>
 	<server>TomcatServer</server>
-	<path>/maven-web-project</path>
+	<path>/maven-web-project-1.1</path>
 	<update>true</update>
 	</configuration>
 	</plugin> 
